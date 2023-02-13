@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1676248513,,"q"
+|2,0,1676250957,,"q"
 :wq
 |2,0,1676246059,,"wq"
 :%s/\s\+$//e
@@ -84,38 +84,58 @@ $
 |3,0,36,0,1,0,1673824661," "
 
 # File marks:
-'0  5  14  ~/.gitconfig
-|4,48,5,14,1676248513,"~/.gitconfig"
-'1  2  1  ~/.gitconfig
-|4,49,2,1,1676248042,"~/.gitconfig"
+'0  1  0  ~/.git/config
+|4,48,1,0,1676250957,"~/.git/config"
+'1  5  14  ~/.gitconfig
+|4,49,5,14,1676248513,"~/.gitconfig"
 '2  2  1  ~/.gitconfig
 |4,50,2,1,1676248042,"~/.gitconfig"
-'3  148  0  ~/printf/functions2.c
-|4,51,148,0,1676246059,"~/printf/functions2.c"
-'4  187  0  ~/printf/functions2.c
-|4,52,187,0,1676245839,"~/printf/functions2.c"
+'3  2  1  ~/.gitconfig
+|4,51,2,1,1676248042,"~/.gitconfig"
+'4  148  0  ~/printf/functions2.c
+|4,52,148,0,1676246059,"~/printf/functions2.c"
 '5  187  0  ~/printf/functions2.c
 |4,53,187,0,1676245839,"~/printf/functions2.c"
-'6  129  0  ~/printf/functions1.c
-|4,54,129,0,1676241181,"~/printf/functions1.c"
-'7  19  0  ~/printf/functions.c
-|4,55,19,0,1676240702,"~/printf/functions.c"
-'8  160  0  ~/printf/functions1.c
-|4,56,160,0,1676240235,"~/printf/functions1.c"
-'9  158  0  ~/printf/functions1.c
-|4,57,158,0,1676240235,"~/printf/functions1.c"
+'6  187  0  ~/printf/functions2.c
+|4,54,187,0,1676245839,"~/printf/functions2.c"
+'7  129  0  ~/printf/functions1.c
+|4,55,129,0,1676241181,"~/printf/functions1.c"
+'8  19  0  ~/printf/functions.c
+|4,56,19,0,1676240702,"~/printf/functions.c"
+'9  160  0  ~/printf/functions1.c
+|4,57,160,0,1676240235,"~/printf/functions1.c"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/config
+|4,39,1,0,1676250957,"~/.git/config"
+-'  5  14  ~/.gitconfig
+|4,39,5,14,1676248513,"~/.gitconfig"
 -'  5  14  ~/.gitconfig
 |4,39,5,14,1676248513,"~/.gitconfig"
 -'  2  1  ~/.gitconfig
 |4,39,2,1,1676248319,"~/.gitconfig"
+-'  2  1  ~/.gitconfig
+|4,39,2,1,1676248319,"~/.gitconfig"
+-'  2  1  ~/.gitconfig
+|4,39,2,1,1676248042,"~/.gitconfig"
 -'  2  1  ~/.gitconfig
 |4,39,2,1,1676248042,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1676247208,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1676247208,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1676247208,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1676247208,"~/.gitconfig"
+-'  148  0  ~/printf/functions2.c
+|4,39,148,0,1676246059,"~/printf/functions2.c"
+-'  148  0  ~/printf/functions2.c
+|4,39,148,0,1676246059,"~/printf/functions2.c"
+-'  148  0  ~/printf/functions2.c
+|4,39,148,0,1676246059,"~/printf/functions2.c"
+-'  148  0  ~/printf/functions2.c
+|4,39,148,0,1676246059,"~/printf/functions2.c"
 -'  148  0  ~/printf/functions2.c
 |4,39,148,0,1676246059,"~/printf/functions2.c"
 -'  148  0  ~/printf/functions2.c
@@ -132,6 +152,22 @@ $
 |4,39,187,0,1676246047,"~/printf/functions2.c"
 -'  187  0  ~/printf/functions2.c
 |4,39,187,0,1676246047,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676246047,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676246047,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676246047,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676246047,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676245839,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676245839,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676245839,"~/printf/functions2.c"
+-'  187  0  ~/printf/functions2.c
+|4,39,187,0,1676245839,"~/printf/functions2.c"
 -'  187  0  ~/printf/functions2.c
 |4,39,187,0,1676245839,"~/printf/functions2.c"
 -'  187  0  ~/printf/functions2.c
@@ -156,6 +192,54 @@ $
 |4,39,1,0,1676241573,"~/printf/functions2.c"
 -'  1  0  ~/printf/functions2.c
 |4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  1  0  ~/printf/functions2.c
+|4,39,1,0,1676241573,"~/printf/functions2.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
+-'  129  0  ~/printf/functions1.c
+|4,39,129,0,1676241181,"~/printf/functions1.c"
 -'  129  0  ~/printf/functions1.c
 |4,39,129,0,1676241181,"~/printf/functions1.c"
 -'  129  0  ~/printf/functions1.c
@@ -220,94 +304,14 @@ $
 |4,39,112,3,1676241170,"~/printf/functions1.c"
 -'  112  3  ~/printf/functions1.c
 |4,39,112,3,1676241170,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  154  1  ~/printf/functions1.c
-|4,39,154,1,1676241023,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  160  0  ~/printf/functions1.c
-|4,39,160,0,1676240977,"~/printf/functions1.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
--'  19  0  ~/printf/functions.c
-|4,39,19,0,1676240702,"~/printf/functions.c"
+-'  112  3  ~/printf/functions1.c
+|4,39,112,3,1676241170,"~/printf/functions1.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/config
+	*	1676250831	0
+	"	1	0
 
 > ~/.gitconfig
 	*	1676248337	0
@@ -1544,11 +1548,3 @@ $
 	+	3	2
 	+	1	12
 	+	23	2
-
-> ~/alx-low_level_programming/0x09-static_libraries/4-isalpha.c
-	*	1673826603	0
-	"	24	0
-	^	24	1
-	.	24	0
-	+	1	17
-	+	24	0
